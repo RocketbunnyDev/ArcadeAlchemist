@@ -1,0 +1,20 @@
+[api-updater (non-obsolete-error-filter)] 19/07/2023 18:42:58 : Starting C:/Users/ahsan/3D Objects/2020.3.33f1/Editor/Data/Tools/ScriptUpdater/APIUpdater.NonObsoleteApiUpdaterDetector.exe
+[api-updater (non-obsolete-error-filter)] 
+----------------------------------
+jit/startup time      : 793.9715ms
+moved types parse time: 63ms
+candidates parse time : 1ms
+C# parse time         : 275ms
+candidates check time : 32ms
+console write time    : 1ms
+
+[api-updater (non-obsolete-error-filter)] 19/07/2023 18:46:37 : Starting C:/Users/ahsan/3D Objects/2020.3.33f1/Editor/Data/Tools/ScriptUpdater/APIUpdater.NonObsoleteApiUpdaterDetector.exe
+[api-updater (non-obsolete-error-filter)] 
+----------------------------------
+jit/startup time      : 92.5848ms
+moved types parse time: 60ms
+candidates parse time : 1ms
+C# parse time         : 205ms
+candidates check time : 47ms
+console write time    : 0ms
+
